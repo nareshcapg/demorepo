@@ -1,6 +1,6 @@
-Public class HelloNaresh
+public class HelloNaresh
 {
- public static void main(args[] String)
+ public static void main(String args[])
  {
    System.out.println("welcome to naresh world");
  }
